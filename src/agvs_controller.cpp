@@ -1,3 +1,8 @@
+/** @file src/agvs_controller.cpp
+ *  A node responsible for controlling lower-level actions of all AGVs. This
+ *  also for now handles starting/ending the competition and servicing orders.
+ */
+
 #include "ariac_agv.hpp"
 
 #include <ros/ros.h>

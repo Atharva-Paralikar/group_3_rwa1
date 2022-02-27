@@ -1,3 +1,8 @@
+/** @file src/ariac_agv.cpp
+ *  A class to represent one AGV. This includes some constant description of
+ *  the AGV, as well as its interface to the ROS network.
+ */
+
 #include "ariac_agv.hpp"
 
 #include <ros/node_handle.h>
